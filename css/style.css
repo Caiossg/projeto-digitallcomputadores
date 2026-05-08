@@ -559,7 +559,7 @@ footer a{
     font-family: 'Roboto', sans-serif;
 }
 
-@media (max-width: 1625px){
+@ (max-width: 1625px){
  body{
         justify-self: center;
         justify-content: center;
@@ -888,7 +888,7 @@ footer a{
     }
 
     nav li a{
-        font-size: 0.6rem;
+        font-size: 0.5rem;
 
     }
 
@@ -913,7 +913,7 @@ footer a{
     #texto_principal{
         justify-self: center;   
         width: 100%;
-        padding: 100px;
+        padding: 50px;
         
     }
     #texto_principal h1{
