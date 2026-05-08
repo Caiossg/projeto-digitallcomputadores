@@ -669,7 +669,7 @@ footer a{
     }
     .botao_principal img{
         display: flex;
-        width: 40px;
+        width: 45px;
         
     }
     .texto_destacado{
@@ -864,7 +864,7 @@ footer a{
 
 }
 
-@media (max-width: 1366px){
+@media (max-width: 1440px){
 
     body{
         justify-self: center;
@@ -913,7 +913,7 @@ footer a{
     #texto_principal{
         justify-self: center;   
         width: 100%;
-        padding: 50px;
+        padding: 70px;
         
     }
     #texto_principal h1{
@@ -932,9 +932,17 @@ footer a{
 
     .icones_servicos{
         display: flex;
+        flex-wrap:nowrap;
         justify-content: center;
+        gap: 40px;
         
     }
+        .icones_servicos img{
+        display: flex;
+
+        
+    }
+
 
     .botao_principal{
         display: flex;
