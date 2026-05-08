@@ -864,7 +864,7 @@ footer a{
 
 }
 
-@media (max-width: 1100px){
+@media (max-width: 1366px){
 
     body{
         justify-self: center;
@@ -933,6 +933,7 @@ footer a{
     .icones_servicos{
         display: flex;
         justify-content: center;
+        
     }
 
     .botao_principal{
@@ -1313,7 +1314,7 @@ footer a{
 @media (max-width: 550px){
 
     nav li a{
-        font-size: 0.8rem;
+        font-size: 0.6rem;
     }
 
 
