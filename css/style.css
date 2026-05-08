@@ -629,7 +629,7 @@ footer a{
         flex-direction: row;
         flex-wrap: nowrap;
         width: 100%;
-        gap: 50px;
+        gap: 40px;
         row-gap: 20px;
         justify-self: center;
     }
@@ -864,7 +864,7 @@ footer a{
 
 }
 
-@media (max-width: 1440px){
+@media (max-width: 1100px){
 
     body{
         justify-self: center;
